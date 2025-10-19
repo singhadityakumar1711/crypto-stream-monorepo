@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node.js
+node_modules/
+.env
+
+# Logs
+*.log
+test.py
